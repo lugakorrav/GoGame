@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GoGame</string>
+    <string name="button_newGame">new game</string>
+    <string name="button_watchRecord">watch record</string>
+    <string name="editText_field_size">Field size</string>
+    <string name="new_game">New game</string>
+    <string name="ok">OK</string>
+    <string name="button_first"><![CDATA[<<]]></string>
+    <string name="button_previous"><![CDATA[<]]></string>
+    <string name="button_next"><![CDATA[>]]></string>
+    <string name="button_last"><![CDATA[>>]]></string>
+    <string name="textView_whoseTurn_Black">Black to move</string>
+    <string name="textView_whoseTurn_White">White to move</string>
+    <string name="info">Info</string>
+    <string name="komi">Komi</string>
+    <string name="date">Game date</string>
+    <string name="result">Result</string>
+    <string name="rule">Rule</string>
+    <string name="button_resume">resume</string>
+    <string name="toast_too_big_field_size">Too big field size</string>
+</resources>
